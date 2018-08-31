@@ -1,7 +1,5 @@
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27703.2042
-MinimumVisualStudioVersion = 10.0.40219.1
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS", "CS.csproj", "{799046AF-2A76-413E-92B2-B9B9FF76A7F5}"
 EndProject
 Global
@@ -17,8 +15,5 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {BC6974DF-0E89-42FE-BDAB-A8875F5A6011}
 	EndGlobalSection
 EndGlobal

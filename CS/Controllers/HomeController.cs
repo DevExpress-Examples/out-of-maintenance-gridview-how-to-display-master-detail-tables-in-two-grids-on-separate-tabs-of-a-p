@@ -2,6 +2,8 @@
 using System.IO;
 using System.Web;
 using System.Web.Mvc;
+using DevExpress.XtraPrinting;
+using DevExpress.XtraPrintingLinks;
 using DevExpress.Web.Mvc;
 using CS.Model;
 using DevExpress.Web.ASPxGridView;
