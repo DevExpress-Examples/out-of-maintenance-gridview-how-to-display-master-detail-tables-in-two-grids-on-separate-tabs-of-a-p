@@ -9,7 +9,7 @@
 <!-- default file list end -->
 # GridView - How to display master-detail tables in two grids on separate tabs of a PageControl
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e4433)**
+**[[Run Online]](https://codecentral.devexpress.com/e4433/)**
 <!-- run online end -->
 
 
