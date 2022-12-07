@@ -4,7 +4,7 @@ using System.Web;
 using System.Web.Mvc;
 using DevExpress.Web.Mvc;
 using CS.Model;
-using DevExpress.Web.ASPxGridView;
+using DevExpress.Web;
 
 namespace CS.Controllers {
     public class HomeController : Controller {
